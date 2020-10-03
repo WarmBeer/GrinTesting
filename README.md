@@ -2,21 +2,21 @@
 
 In this document we will setup a testing plan for the Grin Node & Wallet. 
 
-**Progress Report**
+## Progress Report
 
 | Date (dd/mm/yyyy) | Name | Comments |
 | - | - | - |
 | 3.10.2020 | Warm Beer | Testing document has been made. |
 
-**Use Cases**
+## Use Cases
 
 List of features we want to test
 
-*Grin (Node)*
+**Grin (Node)**
 
 - Run a Grin node
 
-*Grin Wallet*
+**Grin Wallet**
 
 - Display commands for a certain feature
 - Initialize a Grin wallet
@@ -25,7 +25,7 @@ List of features we want to test
 - Receive Grin
 - Send Grin
 
-**Test Cases**
+## Test Cases
 
 Here we describe the steps to test a certain feature and show the test results.
 
