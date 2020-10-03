@@ -14,7 +14,7 @@ List of features we want to test
 
 **Test Cases**
 
-Here we describe the steps to test a certain feature and the test results.
+Here we describe the steps to test a certain feature and show the test results.
 
 | ID | Test Case | Testing Steps | Expected Result | Status | Actual Result | Comments |
 | - | - | - | - | - | - | - |
