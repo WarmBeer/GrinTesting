@@ -29,7 +29,7 @@ List of features we want to test
 
 Here we describe the steps to test a certain feature and show the test results.
 
-- **ID**: (GW for Grin Wallet or G for Grin Node)X.Y Eg: "GW1.0" with X as the ID of the Use Case and Y as an incremental ID based on the number of Test Cases for a certain Use Case.
+- **ID**: (GW for Grin Wallet or G for Grin Node)X.Y Eg: "GW5.1" with X as the ID of the Use Case and Y as an incremental ID based on the number of Test Cases for a certain Use Case.
 - **Test Case**: Describe what you are testing in a few words. Eg: "Receive Grin using ToR while connected to ext. Node"
 - **Testing Steps**: Describe ALL the steps you need to take to conduct the test.
 - **Expected Result**: What is the expected result after doing all the Testing Steps.
