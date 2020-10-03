@@ -4,9 +4,11 @@ In this document we will setup a testing plan for the Grin Node & Wallet. The Gr
 
 ## Progress Report
 
-| Date (dd/mm/yyyy) | Name | Comments |
-| - | - | - |
-| 3.10.2020 | Warm Beer | Testing document has been made. |
+Here is where we fill in worked hours on QA for Grin (grin.mw) and explain what we have done and what is still to do.
+
+| Date  | Name | Worked Hours | Work Done | Work Not Done | Problems |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 3.10.2020 | Warm Beer | 3 | Today I have spitted through the Grin documentation and worked through the setup process on Mac, Linux and Windows. During the setup I encountered minor issues and have documented them here along with some suggestions: https://github.com/mimblewimble/docs/issues/35 . I have also started a public Github repo: https://github.com/WarmBeer/GrinTesting where we can describe our testing plan for the Grin Wallet and Node. | The feature list on the GrinTesting repo is incomplete and needs to be complemented. | - |
 
 ## Use Cases
 
