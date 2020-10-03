@@ -14,16 +14,16 @@ List of features we want to test
 
 **Grin (Node)**
 
-- Run a Grin node
+- [G1] Run a Grin node
 
 **Grin Wallet**
 
-- Display commands for a certain feature
-- Initialize a Grin wallet
-- Create an account
-- Show account balance 
-- Receive Grin
-- Send Grin
+- [GW1] Display commands for a certain feature
+- [GW2] Initialize a Grin wallet
+- [GW3] Create an account
+- [GW4] Show account balance 
+- [GW5] Receive Grin
+- [GW6] Send Grin
 
 ## Test Cases
 
