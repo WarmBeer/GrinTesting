@@ -9,5 +9,5 @@ In this document we will setup a testing plan for the Grin Node & Wallet.
 
 **Test Cases**
 | ID | Test Case | Testing Steps | Expected Result | Status | Actual Result | Comments |
-||
-|1|
+| - | - | - | - | - | - | - |
+| 1 | Test Case 1 | - | - | - | - | - |
