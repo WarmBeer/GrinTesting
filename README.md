@@ -1,6 +1,6 @@
 # Grin Testing Plan
 
-In this document we will setup a testing plan for the Grin Node & Wallet. 
+In this document we will setup a testing plan for the Grin Node & Wallet. The Grin Node and Wallet will be set up using the official Grin docs: https://docs.grin.mw .
 
 ## Progress Report
 
