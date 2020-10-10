@@ -10,7 +10,20 @@ Here is where we fill in worked hours on QA for Grin (grin.mw) and explain what 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 3.10.2020 | Warm Beer | 3 | Today I have spitted through the Grin documentation and worked through the setup process on Mac, Linux and Windows. During the setup I encountered minor issues and have documented them here along with some suggestions: https://github.com/mimblewimble/docs/issues/35 . I have also started a public Github repo: https://github.com/WarmBeer/GrinTesting where we can describe our testing plan for the Grin Wallet and Node. | The feature list on the GrinTesting repo is incomplete and needs to be complemented. | - |
 
-## Use Cases
+## Configuration Options WIP
+
+**grin-server.toml**
+
+- [CO-GN1] Choose directory for grin blockchain
+- [CO-GN2] Use TLS certificates 
+
+| CO-ID | Parameter | Desription |
+| --------- | ---------- | ---------- |
+| CO-GN1 | db_root | the directory, relative to current, in which the grin blockchain is stored |
+| CO-GN2 | tls_certificate_file | path of TLS certificate file, self-signed certificates are not supported |
+| CO-GN2 | tls_certificate_key | private key for the TLS certificate |
+
+## Use Cases WIP
 
 List of features we want to test
 
