@@ -16,12 +16,20 @@ Here is where we fill in worked hours on QA for Grin (grin.mw) and explain what 
 
 - [CO-GN1] Choose directory for grin blockchain
 - [CO-GN2] Use TLS certificates 
+- [CO-GN3] Choose listen address for services
+- [CO-GN4] REST API authentication
+- [CO-GN5] Foreign API authentication
+- [CO-GN6] Select the chain type
 
-| CO-ID | Parameter | Desription |
+| CO-ID | Parameter | Description |
 | --------- | ---------- | ---------- |
 | CO-GN1 | db_root | the directory, relative to current, in which the grin blockchain is stored |
 | CO-GN2 | tls_certificate_file | path of TLS certificate file, self-signed certificates are not supported |
 | CO-GN2 | tls_certificate_key | private key for the TLS certificate |
+| CO-GN3 | api_http_addr | the address on which services will listen, e.g. Transaction Pool |
+| CO-GN4 | api_secret_path | path of the secret token used by the Rest API and v2 Owner API to authenticate the calls |
+| CO-GN5 | foreign_api_secret_path | path of the secret token used by the Foreign API to authenticate the calls |
+| CO-GN6 | chain_type | The chain type, which defines the genesis block and the set of cuckoo. Parameters used for mining as well as wallet output coinbase maturity. Can be: AutomatedTesting - For CI builds and instant blockchain creation. UserTesting - For regular user testing (cuckoo 16). Floonet - For the long term floonet test network. Mainnet - For mainnet |
 
 ## Use Cases WIP
 
